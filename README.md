@@ -14,7 +14,3 @@
 
 
 
-***This website is based on venus template by [cruip](https://cruip.com/demos/venus/)***
-
-
-
