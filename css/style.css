@@ -7416,6 +7416,7 @@ body {
 .heading-black {
   font-weight: 800; }
 
+
 /* Box shadow */
 .btn {
   text-transform: uppercase;
@@ -7486,7 +7487,7 @@ body {
     background-color: rgba(0, 0, 0, 0.4); } }
 
 .navbar .navbar-brand {
-  font-size: 1.5rem;
+  font-size:1.0rem;
   font-weight: 900;
   color: #2979ff;
   text-transform: uppercase; }
