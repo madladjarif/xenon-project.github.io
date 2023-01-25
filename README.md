@@ -1,4 +1,4 @@
-### [xenongroup.tech](https://xenongroup.tech)
+# [xenongroup.tech](https://xenongroup.tech)
 
 ## Installation
 
