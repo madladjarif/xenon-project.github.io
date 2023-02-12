@@ -1,4 +1,4 @@
-## [xenongroup.tech](https://xenongroup.tech)
+## [xenon-project.github.io](https://xenon-project.github.io/)
 
 ## Installation
 
