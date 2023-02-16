@@ -7386,7 +7386,11 @@ body {
   font-weight: 600; }
 
 .heading-black {
-  font-weight: 600; }
+  font-weight: 600; 
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+
+}
 
 
 /* Box shadow */
